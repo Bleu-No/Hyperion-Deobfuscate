@@ -4,3 +4,5 @@
 - [x] **server.py** est l'api pour deobfusquer Hyperion.
 - [x] **test.py** permet d'envoyer le code obfusquer à l'api.
 - [x] **replit_encrypt.py** permet simplement de cacher le code source sur replit.
+
+Par contre j'ai eu la flemme de faire vraiment un truc propre.
