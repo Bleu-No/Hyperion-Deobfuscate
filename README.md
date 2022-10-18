@@ -6,3 +6,8 @@
 - [x] **replit_encrypt.py** permet simplement de cacher le code source sur replit.
 
 Par contre j'ai eu la flemme de faire vraiment un truc propre.
+
+# Usage
+1. Place your input file as obf.py, or change it in the test.py file
+2. run test.py
+3. profit?!?!
